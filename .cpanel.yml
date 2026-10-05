@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/legem/public_html/
+    - export DEPLOYPATH=/home/legem/public_html/prueba-legem/
     - /bin/cp -R * $DEPLOYPATH
